@@ -84,4 +84,4 @@ This project is open source and available under the **MIT License**.
 ### 👤 Author
 
 **Edward Denis**
-Aspiring Software Developer | Web & Systems Enthusiast | Sysytem Analyst & Designer
+Aspiring Software Developer | Web & Systems Enthusiast | System Analyst & Designer
