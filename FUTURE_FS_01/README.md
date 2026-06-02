@@ -40,16 +40,18 @@ portfolio/
 To run this project locally:
 
 1. Clone the repository
+
 ```bash
    git clone https://github.com/edortie03/PORTFOLIO.git
 ````
 
-2. Navigate into the project folder
+2.Navigate into the project folder
 
 ```bash
    cd PORTFOLIO
 ```
-3. Open `index.html` in your browser
+
+3.Open `index.html` in your browser
 
 No installations or dependencies required ✅
 
